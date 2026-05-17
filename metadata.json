@@ -1,0 +1,10 @@
+{
+  "name": "Personal Color AI Analyzer",
+  "description": "AI-powered personal color analysis tool that provides detailed tone, season, and color recommendations based on your photo.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
